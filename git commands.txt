@@ -1,0 +1,7 @@
+echo "# DSA_With_JAVA" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/tausif22112023/DSA_With_JAVA.git
+  git push -u origin main
